@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="samh_task"
+        android:label="Samh سمح"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
