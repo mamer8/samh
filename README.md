@@ -1,16 +1,16 @@
-# samh_task
+# samh
 
-A new Flutter project.
+An application that helps you book flights across many cities and countries at the lowest prices and best offers.
 
-## Getting Started
+# links
+This is a prototype link of the project >> https://drive.google.com/file/d/1HGHQsryXYiDzLfSEi40AjBPRySFAfCeN/view?usp=sharing
 
-This project is a starting point for a Flutter application.
+This is an apk link of the project >> https://drive.google.com/file/d/1SFJqUK7wgTtq3lDAZBGgAYkvCn8P4133/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+# technologies
+Using localization for two languages [AR,EN] and use shared pref to save states
+Using a bloc as state management and dio for web services
+Using MVVM architecture ..
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#In future 
+Authentication and payment online 
